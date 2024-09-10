@@ -16,4 +16,4 @@ sh install.sh
 The udev solution was find on the following forum:
 [https://bugs.launchpad.net/ubuntu/+source/network-manager/+bug/1574582](https://bugs.launchpad.net/ubuntu/+source/network-manager/+bug/1574582)
 
-The install script is created and maintained by [https://github.com/alvaroguinda](Alvaro Guinda).
+The install script is created and maintained by [Alvaro Guinda](https://github.com/alvaroguinda).
