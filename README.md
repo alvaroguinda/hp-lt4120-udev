@@ -1,4 +1,4 @@
-# HP LT4120 Linux
+# HP LT4120 Snapdragon X5 LTE Linux
 
 This repository provides a udev file that provides support for the HP LT4120 Snapdragon X5 LTE Modem on HP Laptop.
 
